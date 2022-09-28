@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: my-webserver
-        image: jun7842/myweb:1.4
+        image: jun7842/myweb:1.3
         ports:
         - containerPort: 80
 ---
